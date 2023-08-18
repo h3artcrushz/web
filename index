@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>drills personal bio</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="center">
+		<div class="t-center">
+			<h1 class="white"><span class="blue">&lt;</span>drill<span class="blue">/&gt;</span></h1>
+        <div class="card-row">
+          <div class="card">
+            <a href="https://github.com/h3artcrushz">
+              <h3>GitHub</h3>
+              <p>I don't really post anything on my github but I'll start posting future projects like discord bots, websites, lua scripts</p>
+              <p class="button">Click here</p>
+            </a>
+          </div>
+          <div class="card">
+            <a href="https://discordapp.com/users/1046378622799314944">
+              <h3>my discord</p>
+              <p class="button">Click here</p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
